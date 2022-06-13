@@ -20,3 +20,5 @@ int Ackerman( int n, int m)
 int m = 2;
 int n = 3;
 Ackerman(n,m);
+int result = Ackerman(n,m);
+Console.WriteLine(result);
